@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Test 101
 Test 102
 Hi hi
+=======
+Test 101
+Test 102
+>>>>>>> demo2
