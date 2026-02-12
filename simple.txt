@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 Test 1
 Test 2
 Bye
+=======
+<<<<<<< HEAD
+Test 101
+Test 102
+Hi hi
+=======
+Test 101
+Test 102
+>>>>>>> demo2
+>>>>>>> demo
